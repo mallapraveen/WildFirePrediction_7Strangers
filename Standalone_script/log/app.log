@@ -1,0 +1,31 @@
+2021-06-06 19:36:40,005 : INFO - Starting application
+2021-06-06 19:36:40,052 : INFO - Preparing data for the prediction
+2021-06-06 19:36:40,188 : INFO - NumExpr defaulting to 8 threads.
+2021-06-06 19:36:40,261 : INFO - Prediction dataset prepared
+2021-06-06 19:36:40,261 : INFO - Loading model from the mentioned pkl file path: ../Models/LinearR.pkl
+2021-06-06 19:36:40,632 : INFO - Predicting values for the input dateset
+2021-06-06 19:36:40,634 : INFO - Prediction completed
+2021-06-06 19:39:18,189 : INFO - File saved to mentioned path:
+CSV path: UserReport/Result.csv
+Excel path: UserReport/Result.xlsx
+2021-06-06 19:39:18,191 : INFO - Displaying Categorical graph
+2021-06-06 19:39:18,191 : INFO - Reading CSV
+2021-06-06 19:39:18,255 : INFO - PSPS_Activation_probability% Range:
+High (RED): PSPS_Activation_probability% > 85
+Medium (YELLOW): 85 >= PSPS_Activation_probability% > 60
+Low (GREEN): PSPS_Activation_probability%<=60
+2021-06-06 19:43:06,124 : INFO - Starting application
+2021-06-06 19:43:06,170 : INFO - Preparing data for the prediction
+2021-06-06 19:43:06,398 : INFO - Prediction dataset prepared
+2021-06-06 19:43:06,398 : INFO - Loading model from the mentioned pkl file path: ../Models/LinearR.pkl
+2021-06-06 19:43:06,963 : INFO - Predicting values for the input dateset
+2021-06-06 19:43:06,965 : INFO - Prediction completed
+2021-06-06 19:43:59,088 : INFO - File saved to mentioned path:
+CSV path: UserReport/Result.csv
+Excel path: UserReport/Result.xlsx
+2021-06-06 19:43:59,090 : INFO - Displaying Categorical graph
+2021-06-06 19:43:59,090 : INFO - Reading CSV
+2021-06-06 19:43:59,180 : INFO - PSPS_Activation_probability% Range:
+High (RED): PSPS_Activation_probability% > 85
+Medium (YELLOW): 85 >= PSPS_Activation_probability% > 60
+Low (GREEN): PSPS_Activation_probability%<=60

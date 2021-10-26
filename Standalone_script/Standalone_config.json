@@ -1,0 +1,34 @@
+{
+    "x_columns": [
+        "WindSustained",
+        "GustSustained",
+        "FPI",
+        "closeToWindThreshold",
+        "closeToGustThreshold",
+        "eFPI",
+        "eThres"
+    ],
+    "labels": [
+        "Low",
+        "Medium",
+        "High"
+    ],
+	"pred_thrs_range": [
+        60,
+		85
+    ],
+    "model_path": "../Models/LinearR.pkl",
+    "save_path": "UserReport/Result.csv",
+    "map_save_path": "UserReport/Map.html",
+	"err_log_pth": "log/app.log",
+	"json_green" : "json/green.json",
+	"json_yellow" : "json/yellow.json",
+	"json_red" : "json/red.json",
+	"legend_template_path" : "json/template.html",
+	"err_log_format": "%(asctime)s : %(levelname)s - %(message)s",
+	"tiles": ["stamenwatercolor", "cartodbpositron", "openstreetmap", "stamenterrain"],
+	"map_popup_fields" : ["CIRCUIT_NAME", "FPI", "WindSustained", "WindThreshold", "GustSustained", "GustTheshold", "PSPS_Activation_probability%"],
+    "map_popup_fields_alias" : ["Circuit Name", "FPI", "Wind Sustained", "Wind Threshold", "Gust Sustained", "Gust Theshold", "PSPS Activation Probability (%)"],
+	"fpi_thres": 12,
+    "y_colmn_predctd": "PSPS_Activation_probability%"
+}

@@ -1,0 +1,156 @@
+County,Circuit,Reason,FPI,WindSustained,GustSustained,Thresholds,Month,pspsActivated
+Los Angeles,SAND CANYON,"Exceeded ThresholdExceeded FPI",12.53,47,59.7,31/46,January,1
+Los Angeles,CUTHBERT,"High Wind TrendExceeded FPI",12.5,30,39.3,31/46,January,1
+Los Angeles,CUTHBERT,"Exceeded ThresholdExceeded FPI",12.5,32.4,50.5,31/46,January,1
+Los Angeles,CUTHBERT,"Exceeded ThresholdExceeded FPI",12.5,32.6,46.3,31/46,January,1
+Los Angeles,DAVENPORT,"High Wind TrendExceeded FPI",12.72,26.1,43.5,31/46,January,1
+Los Angeles,SHOVEL,"Exceeded ThresholdExceeded FPI",12.88,26.1,43.5,25/40,January,1
+Los Angeles,PLATEAU,"High Wind TrendExceeded FPI",12.63,29.3,42.5,31/46,January,1
+Los Angeles;Ventura,BIG ROCK,"Exceeded ThresholdExceeded FPI",12.2,31.4,36.4,31/46,January,1
+Los Angeles;Ventura,ENERGY,"Exceeded ThresholdExceeded FPI",12.2,33.3,45.7,31/46,January,1
+Los Angeles;Ventura,GUITAR,"Exceeded ThresholdExceeded FPI",12.66,31.1,42.2,31/46,January,1
+Los Angeles;Ventura,ENERGY,"Exceeded ThresholdExceeded FPI",12.4,49.1,64.8,31/45,January,1
+Los Angeles;Ventura,BIG ROCK,"Exceeded ThresholdExceeded FPI",12.8,42,59.3,31/46,January,1
+Riverside,BLACKHILLS,"Exceeded ThresholdExceeded FPI",12.8,31,42.89,31/46,January,1
+Riverside;San Bernardino,LARCH,"Exceeded ThresholdExceeded FPI",12.43,38,54,31/46,January,1
+Riverside;San Bernardino,CABANA,"Exceeded ThresholdExceeded FPI",12.8,33.7,47.4,31/46,January,1
+San Bernardino,SWEETWATER,"Exceeded ThresholdExceeded FPI",13.44,38.54,53.2,31/46,January,1
+San Bernardino,NORTHPARK,"Exceeded ThresholdExceeded FPI",12.71,32.5,49,31/46,January,1
+San Bernardino,VARGAS,"Exceeded ThresholdExceeded FPI",13.52,19,46,31/46,January,1
+San Bernardino,CALSTATE,"Exceeded ThresholdExceeded FPI",13.53,37,55.2,31/46,January,1
+Ventura,TWIN LAKES,"Exceeded ThresholdExceeded FPI",12.2,35.5,46.7,31/45,January,1
+Ventura,ANTON,"Exceeded ThresholdExceeded FPI",12.7,40.6,55.8,31/46,January,1
+Ventura,TWIN LAKES,"Exceeded ThresholdExceeded FPI",12.5,42,59.3,31/46,January,1
+Los Angeles,CALGROVE,"Exceeded ThresholdExceeded FPI",12,31.6,43.6,31/46,January,1
+Los Angeles;Ventura,ENERGY,"Exceeded ThresholdExceeded FPI",12.5,31.4,45.7,31/46,January,1
+Ventura,ANTON,"Exceeded ThresholdExceeded FPI",12.5,29.26,47.79,31/46,January,1
+Los Angeles,CALGROVE,"Exceeded ThresholdExceeded FPI",12.7,30.1,46.9,31/46,January,1
+Ventura,BELPAC,"Exceeded ThresholdExceeded FPI",12,31.96,43.91,31/42.42,January,1
+Fresno;Madera,SAGINAW,"Exceeded ThresholdExceeded FPI",12,15.6,44.6,24/40,January,1
+Kern,FROZEN,"Preemptive: To coordinatewith PG&E resources",12.7,19,24,31/46,January,1
+Kern,GRAPEVINE PEAK,"Preemptive: To coordinatewith PG&E resources",12.7,19,24,31/46,January,1
+Kern,CONDOR,"High Wind TrendExceeded FPI",13.1,22.8,44.4,31/46,January,1
+Kern,METTLER,"High Wind TrendExceeded FPI",12.7,20.6,31.9,23/37,January,1
+Kern,CANEBRAKE,"High Wind TrendExceeded FPI",12.2,29.6,41.1,31/46,January,1
+Kern,CONDOR,"High Wind TrendExceeded FPI",13.1,22.8,44.4,31/46,January,1
+Kern,GNATCATCHER,"High Wind TrendExceeded FPI",13.1,21.41,42.45,31/46,January,1
+Kern,GNATCATCHER,"High Wind TrendExceeded FPI",13.1,29,44.21,31/46,January,1
+Kern,CONDOR,"Exceeded ThresholdExceeded FPI",13.1,35,51.4,31/46,January,1
+Los Angeles,SAND CANYON,"Exceeded ThresholdExceeded FPI",12.7,35,49,31/46,January,1
+Los Angeles,HILLFIELD,"Exceeded ThresholdExceeded FPI",12.6,31.4,48.8,31/46,January,1
+Los Angeles,COBRA,"High Wind TrendExceeded FPI",12.6,26.7,40.5,31/42,January,1
+Los Angeles,LOUCKS,"Source Circuit De?Energized: Shovel",12.8,23.6,36.9,31/46,January,1
+Los Angeles,SHOVEL,"High Wind TrendExceeded FPI",12.8,23.6,36.9,31/46,January,1
+Los Angeles,ARLENE,"High Wind TrendExceeded FPI",12.6,29.8,43.7,31/46,January,1
+Los Angeles,HILLFIELD,"High Wind TrendExceeded FPI",12.6,29.8,43.7,31/46,January,1
+Los Angeles,RACER,"High Wind TrendExceeded FPI",12.6,29.8,43.7,31/46,January,1
+Los Angeles,JULIUS,"High Wind TrendExceeded FPI",12,29.8,43.7,31/46,January,1
+Los Angeles,MARCUS,"High Wind TrendExceeded FPI",12,29.8,43.7,31/46,January,1
+Los Angeles,SAND CANYON,"Exceeded ThresholdExceeded FPI",12.7,22.4,47.1,31/46,January,1
+Los Angeles,DAVENPORT,"High Wind TrendExceeded FPI",12.82,24.3,39.82,31/46,January,1
+Los Angeles,MOCCASIN,"Exceeded ThresholdExceeded FPI",12.6,29,49,31/46,January,1
+Los Angeles,TOGA,"Exceeded ThresholdExceeded FPI",12,29,49,31/41.7,January,1
+Los Angeles,ANACONDA,"High Wind TrendExceeded FPI",12.61,22.19,40.33,31/42.4,January,1
+Los Angeles,CAESAR,"Exceeded ThresholdExceeded FPI",12,29,49,31/45.8,January,1
+Los Angeles,PICK,"High Wind TrendExceeded FPI",12.82,19.91,44.57,31/46,January,1
+Los Angeles,PYTHON,"High Wind TrendExceeded FPI",12.63,25.9,41.72,31/46,January,1
+Los Angeles,PYTHON,"High Wind TrendExceeded FPI",12.63,25.9,41.72,31/46,January,1
+Los Angeles,RED BOX,"Exceeded ThresholdExceeded FPI",12,28.6,45.4,31/45,January,1
+Los Angeles,CLARINET,"Exceeded ThresholdExceeded FPI",12,30.4,47.79,31/46,January,1
+Los Angeles,VETERANS,"High Wind TrendExceeded FPI",12.7,19.9,43,31/46,January,1
+Los Angeles,CALGROVE,"High Wind TrendExceeded FPI",12.7,29.5,45.7,31/46,January,1
+Los Angeles,SAND CANYON,"High Wind TrendExceeded FPI",12.7,22.5,44.9,31/46,January,1
+Los Angeles,DE MILLE,"Exceeded ThresholdExceeded FPI",13.5,24.5,47.4,31/46,January,1
+Los Angeles,LOPEZ,"High Wind TrendExceeded FPI",13.5,23.8,45.1,31/46,January,1
+Los Angeles,CUTHBERT,"Exceeded ThresholdExceeded FPI",12.5,29.9,46.3,31/46,January,1
+Los Angeles,KINSEY,"Exceeded ThresholdExceeded FPI",12.93,46,66,31/46,January,1
+Los Angeles,BOUQUET,"Exceeded ThresholdExceeded FPI",12.8,31.6,50.1,31/46,January,1
+Los Angeles,DAVENPORT,"Exceeded ThresholdExceeded FPI",12.8,31.6,50.1,31/46,January,1
+Los Angeles,ESCONDIDO,"Source Circuit De?energized: DAVENPORT",12.8,31.6,50.1,31/46,January,1
+Los Angeles,TUBA,"Exceeded ThresholdExceeded FPI",12.5,29.6,55.2,31/46,January,1
+Los Angeles,DIAMONDBACK,"Exceeded ThresholdExceeded FPI",12.6,28.6,43.1,31/42,January,1
+Los Angeles,LYONS,"High Wind TrendExceeded FPI",12.6,20.4,39.5,31/46,January,1
+Los Angeles;Ventura,ENERGY,"Exceeded ThresholdExceeded FPI",12.5,28.5,46,31/46,January,1
+Los Angeles;Ventura,GUITAR,"High Wind TrendExceeded FPI",12.65,27.35,44.35,31/46,January,1
+Los Angeles;Ventura,ENERGY,"Exceeded ThresholdExceeded FPI",12.5,28.5,46,31/46,January,1
+Los Angeles;Ventura,BIG ROCK,"High Wind TrendExceeded FPI",12.45,29.17,41.94,31/46,January,1
+Los Angeles;Ventura,ENERGY,"Exceeded ThresholdExceeded FPI",12.5,25.8,48.1,31/46,January,1
+Los Angeles;Ventura,GUITAR,"High Wind TrendExceeded FPI",12.7,29.1,43.3,31/46,January,1
+Orange,VERA CRUZ,"Exceeded ThresholdExceeded FPI",12.3,30.7,48.3,28/42,January,1
+Orange,GREEN RIVER,"Exceeded ThresholdExceeded FPI",12.4,30,51.3,31/40,January,1
+Orange,STAR ROCK,"Exceeded ThresholdExceeded FPI",12.4,30,51.3,31/44,January,1
+Riverside,BLACKHILLS,"Exceeded ThresholdExceeded FPI",12.5,32.1,47.1,31/46,January,1
+Riverside,DUKE,"High Wind TrendExceeded FPI",12.3,26.3,42.8,30/46,January,1
+Riverside,STAGHORN,"Exceeded ThresholdExceeded FPI",12,29.9,49.3,31/46,January,1
+Riverside,GALENA,"Exceeded ThresholdExceeded FPI",12.5,37.7,59.6,31/46,January,1
+Riverside,SAVORY,"Exceeded ThresholdExceeded FPI",12.5,43.3,63.3,29/42,January,1
+Riverside,STEEL,"Exceeded ThresholdExceeded FPI",12.6,32.1,51,30/43,January,1
+Riverside,NAPOLEON,"Exceeded ThresholdExceeded FPI",12,29.8,45.1,31/45,January,1
+Riverside,EASTER,"Exceeded ThresholdExceeded FPI",12,32,53.9,29/41,January,1
+Riverside,TAHQUITZ,"Exceeded ThresholdExceeded FPI",12,32.6,48.2,31/46,January,1
+Riverside,DARTMOUTH,"Exceeded ThresholdExceeded FPI",12,24.5,48.4,31/45,January,1
+Riverside,FORTUNE,"Source Circuit De?Energized: Lauda",12,30,51.4,31/45,January,1
+Riverside,GILMAN,"Source Circuit De?Energized: Lauda",12,30,51.4,31/45,January,1
+Riverside,LAUDA,"Exceeded ThresholdExceeded FPI",12,30,51.4,31/45,January,1
+Riverside,CORSAIR,"Exceeded ThresholdExceeded FPI",12,35.7,50,30/42,January,1
+Riverside,BING,"Exceeded ThresholdExceeded FPI",12,31.7,46.3,31/45,January,1
+Riverside,HONEYCRISP,"Exceeded ThresholdExceeded FPI",12,28.9,42.5,29/42,January,1
+Riverside,PHEASANT,"Exceeded ThresholdExceeded FPI",12,37,51,31/45,January,1
+Riverside,JONAGOLD,"Exceeded ThresholdExceeded FPI",12,28.6,45.4,28/39,January,1
+Riverside,SCHMIDT,"Exceeded ThresholdExceeded FPI",12,28.6,45.4,31/44,January,1
+Riverside,CORSAIR,"Exceeded ThresholdExceeded FPI",12,35.4,52.1,30/42,January,1
+Riverside;San Bernardino,CABANA,"Exceeded ThresholdExceeded FPI",12.4,29.9,49.3,31/46,January,1
+Riverside;San Bernardino,LARCH,"Exceeded ThresholdExceeded FPI",12.5,41.2,56.3,31/46,January,1
+Riverside;San Bernardino,CONINE,"Exceeded ThresholdExceeded FPI",12,31,46.3,28/40,January,1
+Riverside;San Bernardino,MACIEL,"Exceeded ThresholdExceeded FPI",12.5,29.5,42.1,28/42,January,1
+Riverside;San Diego,CHAWA,"High Wind TrendExceeded FPI",12,30.9,44.9,31/46,January,1
+San Bernardino,VARGAS,"High Wind TrendExceeded FPI",12.5,21,40,31/46,January,1
+San Bernardino,ACOSTA,"Exceeded ThresholdExceeded FPI",13.8,23.4,46.1,31/46,January,1
+San Bernardino,IMPALA,"Exceeded ThresholdExceeded FPI",12.5,29.7,55.2,31/46,January,1
+San Bernardino,AVANTI,"Exceeded ThresholdExceeded FPI",12.4,32.9,55,31/46,January,1
+San Bernardino,SWEETWATER,"Exceeded ThresholdExceeded FPI",12.5,33.4,49.8,31/46,January,1
+San Bernardino,CALSTATE,"Exceeded ThresholdExceeded FPI",12.5,37.6,56.3,31/46,January,1
+San Bernardino,ECHO,"High Wind TrendExceeded FPI",13.7,29.5,44.7,31/46,January,1
+San Bernardino,BADGER,"Exceeded ThresholdExceeded FPI",12.5,36.7,53.9,31/46,January,1
+San Bernardino,VERDEMONT,"Exceeded ThresholdExceeded FPI",12.5,37.7,56.9,31/46,January,1
+San Bernardino,CARMELITA,"Exceeded ThresholdExceeded FPI",13.7,29,59,31/46,January,1
+San Bernardino,NORTHPARK,"Exceeded ThresholdExceeded FPI",12.5,32,52,31/46,January,1
+Ventura,BELPAC,"Exceeded ThresholdExceeded FPI",12.6,30.9,43.1,31/42,January,1
+Ventura,ANTON,"High Wind TrendExceeded FPI",12.5,25.2,40.4,31/46,January,1
+VENTURA,ANTON,"High Wind TrendExceeded FPI",12.5,25.2,40.4,31/46,January,1
+Ventura,BALCOM,"High Wind TrendExceeded FPI",12.4,28.1,38,31/46,January,1
+Ventura,RAINBOW,"High Wind TrendExceeded FPI",12.5,28.1,38,31/46,January,1
+Ventura,TAPO,"High Wind TrendExceeded FPI",12.64,19.3,41.72,31/46,January,1
+Ventura,CASTRO,"Exceeded ThresholdExceeded FPI",12.41,28.5,49.17,29.8/46,January,1
+Ventura,ESTABAN,"High Wind TrendExceeded FPI",13.4,21.6,43.26,31/44.8,January,1
+Ventura,BUCKHORN,"Exceeded ThresholdExceeded FPI",12.49,17.7,46.47,31/46,January,1
+Ventura,TIMBER CANYON,"High Wind TrendExceeded FPI",12.5,26.6,45.7,31/46,January,1
+Ventura,ANGUS,"Exceeded ThresholdExceeded FPI",12.4,28.8,46,31/46,January,1
+Ventura,ZONE,"Exceeded ThresholdExceeded FPI",12.5,28.7,46.3,31/46,January,1
+Ventura,RICARDO,"Exceeded ThresholdExceeded FPI",12.4,31.1,55.3,31/46,January,1
+Ventura,RAINBOW,"Exceeded ThresholdExceeded FPI",12.5,23,46.7,31/46,January,1
+Ventura,ZONE,"Exceeded ThresholdExceeded FPI",12.5,23,46.7,31/46,January,1
+Ventura,AMBERCREST,"Exceeded ThresholdExceeded FPI",12.4,29.5,46.8,31/44,January,1
+Ventura,HAMPSHIRE,"Exceeded ThresholdExceeded FPI",12.4,29.5,46.8,31/45,January,1
+Ventura,HILLCREST,"Exceeded ThresholdExceeded FPI",12.6,34.6,50.3,31/45,January,1
+Ventura,GOLDSMITH,"Exceeded ThresholdExceeded FPI",13.1,29.5,46.8,31/45,January,1
+Ventura,LANGER,"Exceeded ThresholdExceeded FPI",12.4,29.5,46.8,31/45,January,1
+Ventura,CASSIDY,"Exceeded ThresholdExceeded FPI",12.5,29.1,49.3,31/46,January,1
+Ventura,ANTON,"Exceeded ThresholdExceeded FPI",12.5,24.8,50.1,31/46,January,1
+Ventura,ENCHANTED,"Exceeded ThresholdExceeded FPI",12.5,29.4,53.2,31/46,January,1
+Ventura,MIDDLE ROAD,"Exceeded ThresholdExceeded FPI",12.7,24,46.2,26/42,January,1
+Ventura,ESTABAN,"Exceeded ThresholdExceeded FPI",13.4,28.2,51.8,31/45,January,1
+Ventura,MORGANSTEIN,"Exceeded ThresholdExceeded FPI",12.5,27.4,48.7,31/46,January,1
+Ventura,ROSA,"Exceeded ThresholdExceeded FPI",12.1,32.1,49.9,31/46,January,1
+Ventura,DONLON,"Exceeded ThresholdExceeded FPI",12.5,32.1,49.9,31/46,January,1
+Ventura,WHITECLIFF,"Exceeded ThresholdExceeded FPI",12.4,34.2,48,31/46,January,1
+Ventura,DONLON,"Exceeded ThresholdExceeded FPI",12.5,30,54.1,31/46,January,1
+Ventura,DONLON,"Exceeded ThresholdExceeded FPI",12.5,23.5,50.3,31/46,January,1
+Ventura,BUCKNER,"Exceeded ThresholdExceeded FPI",12.4,28.7,54.6,31/45,January,1
+Ventura,ERRINGER,"Exceeded ThresholdExceeded FPI",12.5,28.7,54.6,31/45,January,1
+Ventura,EVERETT,"Exceeded ThresholdExceeded FPI",12.1,31.7,61.2,31/46,January,1
+Ventura,STRATHERN,"Exceeded ThresholdExceeded FPI",12.4,31.7,61.2,31/46,January,1
+Ventura,COVENTRY,"Exceeded ThresholdExceeded FPI",12.6,28.7,47.4,31/46,January,1
+Ventura,SHERWOOD,"Source Circuit De?Energized: Coventry",12.6,28.7,47.4,31/46,January,1
+Ventura,WHITECLIFF,"Exceeded ThresholdExceeded FPI",12.42,34.2,48,31/46,January,1
+Riverside,ACCENT,"High Wind TrendExceeded FPI",12,26.3,37.9,27/38,January,1
