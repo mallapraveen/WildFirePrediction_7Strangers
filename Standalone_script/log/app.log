@@ -29,3 +29,31 @@ Excel path: UserReport/Result.xlsx
 High (RED): PSPS_Activation_probability% > 85
 Medium (YELLOW): 85 >= PSPS_Activation_probability% > 60
 Low (GREEN): PSPS_Activation_probability%<=60
+2021-12-17 00:53:57,848 : INFO - Starting application
+2021-12-17 00:53:57,851 : INFO - Preparing data for the prediction
+2021-12-17 00:53:57,861 : INFO - Prediction dataset prepared
+2021-12-17 00:53:57,861 : INFO - Loading model from the mentioned pkl file path: ../Models/LinearR.pkl
+2021-12-17 00:53:58,359 : INFO - Predicting values for the input dateset
+2021-12-17 00:53:58,376 : INFO - Prediction completed
+2021-12-17 00:53:58,697 : INFO - File saved to mentioned path:
+CSV path: UserReport/Result.csv
+Excel path: UserReport/Result.xlsx
+2021-12-17 00:53:58,698 : INFO - Displaying Categorical graph
+2021-12-17 00:53:58,698 : INFO - Reading CSV
+2021-12-17 00:53:58,705 : INFO - PSPS_Activation_probability% Range:
+High (RED): PSPS_Activation_probability% > 85
+Medium (YELLOW): 85 >= PSPS_Activation_probability% > 60
+Low (GREEN): PSPS_Activation_probability%<=60
+2021-12-17 00:54:04,008 : ERROR - Traceback (most recent call last):
+  File "C:\Users\malla\AppData\Local\Temp/ipykernel_19292/2842716902.py", line 36, in <module>
+    generate_map()
+  File "C:\Users\malla\AppData\Local\Temp/ipykernel_19292/741635171.py", line 143, in generate_map
+    geom_dct = json.load(open("json\circuit_geom.json", 'r'))
+FileNotFoundError: [Errno 2] No such file or directory: 'json\\circuit_geom.json'
+
+2021-12-18 18:32:28,497 : INFO - Starting application
+2021-12-18 18:32:28,497 : ERROR - Traceback (most recent call last):
+  File "C:\Users\malla\AppData\Local\Temp/ipykernel_10972/2842716902.py", line 29, in <module>
+    predict_values()
+NameError: name 'predict_values' is not defined
+

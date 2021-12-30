@@ -1,2 +1,2 @@
 cd "%~dp0"
-"C:\Program Files (x86)\Python38-32\python.exe" "%~dp0\Standalone.py"
+"C:\Users\malla\AppData\Local\Programs\Python\Python310\python.exe" "%~dp0\Standalone.py"
